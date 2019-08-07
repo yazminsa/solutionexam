@@ -1,0 +1,19 @@
+[
+    {
+        "name": "CITY",
+        "value": "name"
+        
+    },
+    {
+        "name": "TEMP",
+        "value": "temp"
+    },
+    {
+        "name": "HUMIDITY",
+        "value": "humedad"
+    },
+    {
+        "name": "PRESSURE",
+        "value": "presion"
+    }
+]

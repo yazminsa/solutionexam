@@ -1,0 +1,21 @@
+.table {
+    width: 100%;
+    border: 1px;
+}
+.table  td {
+    padding: 10px;
+}
+.table_container {
+    padding:20px;
+}
+.table thead th {
+    background-color: #EAEAEA;
+    padding: 12px;
+    border-left: 1px dotted #999;
+}
+.moneda > span::before{
+    content: '$';
+}
+.moneda{
+    text-align: right;
+}

@@ -1,0 +1,25 @@
+* {
+	box-sizing: border-box;
+}
+.button {
+	color: white;
+	background:brown;
+	padding: 10px;
+	font-size: .9rem;
+	font-weight: 500;
+	border: none;
+	border-radius: 10px;
+	margin: 0 0 0 20px;
+	cursor: pointer;
+	outline: none;
+	color:white;
+}
+
+.button_red {
+	background: red;
+}
+
+.main {
+	display: flex;
+	justify-content: left;
+}

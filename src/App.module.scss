@@ -1,0 +1,38 @@
+
+.tablemain {
+    background-color:#EAEAEA;
+    display:flex;
+    justify-content:space-between;
+    padding:30px;
+  }
+  
+  .lista_opciones {
+      list-style: none;
+      
+  }
+  .lista_opciones > li {
+      padding: 4px;
+  
+  }
+  .lista_opciones > li:hover {
+      background-color: #EAEAEA;
+      cursor: pointer;
+  
+  }
+  .opciones {
+      display:flex;
+    justify-content:space-between;
+    padding:30px;
+  }
+  
+  .resultado {
+      padding: 10px;
+  }
+  
+  .ejemplos {
+      font-size: 12px;
+  }
+  
+  .input > input{
+      width: 400px;
+  }
